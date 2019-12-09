@@ -1,1 +1,1 @@
-class profie::app {}
+class profie::app2 {}
