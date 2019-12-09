@@ -1,1 +1,0 @@
-class profie::app2 {}
